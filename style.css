@@ -1,0 +1,56 @@
+body {
+    background-color: orangered;
+    text-align: center;
+}
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+.Best_Wishes_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.Best_Wishes_mainDiv img {
+   width: 59%;
+   height: 59%;
+}
+.Best_Wishes_mainDiv hr {
+    width: 230px
+}
+.Best_Wishes_mainDiv h5 , .Best_Wishes_mainDiv p {
+    margin-left: 20px;
+}
+.Gallery_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.Gallery_head i{
+    float: right;
+}
+.Gallery_text span{
+    color: #ff7700;
+}
+.img{
+    margin-top: 10;
+    margin-bottom:10;
+}
+.img1{
+    margin-top: 10;
+    margin-bottom:10;
+}
+.img2{
+    margin-top: 10;
+    margin-bottom:10;
+}
+.Gallery{
+    width: 100%;
+    height: 100%
+}
+  
